@@ -1,0 +1,30 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pa1kakarla/RESTfulAPITutorial.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "pawan kakarla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pa1kakarla/RESTfulAPITutorial.git"
+  },
+  "homepage": "https://github.com/pa1kakarla/RESTfulAPITutorial.git",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7"
+  }
+}
